@@ -1,40 +1,16 @@
 ---
 layout: post
-title: "Boulevardier: The Cocktail"
-date: 2018-02-24
-categories: ["Cocktails"]
-author: "Dawn Childress"
-lat: 48.869219
-lng: 2.3322078999999576
+title: "Larry Salomon: Awastingni"
+date: 2017-06-24
+categories: ["Cacao"], ["Indigenous'],["Nicaragua"]
+author: "Aaron Dickinson Sachs"
+lat: -83.950186
+lng: 14.377686
 runningtitle: "Running title here"
-desc: "Harry's New York Bar, a well-known bar in Paris, is said to be the birthplace of classic cocktails such as the Bloody Mary, French 75, Side Car and the Boulevardier."
+desc: "Larry "Asangpas" Salomon, Awas Tingni, Nicaragua"
 ---
-"The boulevardier cocktail is similar to the Negroni, replacing the Negroni's gin component with bourbon whiskey or rye whiskey. Some boulevardier recipes call for 1 1/2 parts rather than 1 part whiskey."
+In this Real Food Story, part of the Historias de Cacao/Chocolate Stories project, Larry "Asangpas" Salomon talks about the struggles of the Auas Tingni community of Mayangna, an indigenous people of Nicaragua, who are fighting to preserve their traditional lands and way of life. See [Awas Tingni v. Nicaragua](https://www.escr-net.org/caselaw/2006/case-mayagna-sumo-awas-tingni-community-v-nicaragua-eng) for their Inter-American Court of Human Rights case against Nicaragua.
 
-"Drinks historian David Wondrich traces the easy-drinking combination of American whiskey, Campari and Italian vermouth back to Paris in 1927, where a wealthy young American expat named Erskine Gwynne launched a publication patterned after The New Yorker. His magazine, The Boulevardier, featured the first documented recipe for its namesake drink (although it didn’t specify the type of whiskey)."
+<iframe src="https://archive.org/embed/Larry_HCCS" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-![The Boulevardier Cocktail](images/boulevardier1.jpg)
-   {:.image}
-[Photo via Flickr user Edsel Little](https://www.flickr.com/photos/edsel_/16164913902).
-   {:.caption}
-
-"It’s a great in its de facto form, but I often find Campari a bit of a bully to softer whiskies, even at the modern recipe’s half up ratio of 2 parts whiskey to 1 of Campari. By cutting the 1 part of Campari in half, or even thirds, one can swap in dozens of other amari, or what are known as potable bitters, and create new versions of the drink ad infinitum. Try half an ounce of Campari with a quarter-ounce each of Amaro Ramazzotti and Zwack Hungarian bitter, with a swath of orange zest instead of the lemon. Or try thirds each of Campari, Cynar, the artichoke-based amaro and Braulio, a wonderful old Alpine bitter with a stark, piney grab that is brand new to the American market. Playtime is limited only by your patience and your budget. Add to those factors the variance in different whiskies and vermouths and you have a simple drink that can present you with new facets forever."
-
-#### The Boulevardier
-* 2 ounces rye or bourbon
-* 1 ounces Campari
-* 1 ounce sweet vermouth
-
-Stir ingredients together in a mixing glass filled with ice, strain into either a stemmed cocktail glass or a rocks glass with ice, to preference. Garnish with a twist of lemon zest.
-
-![Harry's New York Bar, Paris](images/boulevardier2.jpg)
-   {:.image}
-[Photo via Flickr user Kenn Wilson](https://www.flickr.com/photos/kchrist/2893087153).
-   {:.caption}
-
-#### Works cited
-
-{:.bibliography}
-1. "Boulevardier (Cocktail)", Wikipedia.
-2. Cecchini, Toby. "Case Study: The Boulevardier", The New York Times, February 2, 2012.
-3. Japhe, Brad. "The Return of the Boulevardier, Our Favorite Manhattan-Negroni Love Child", LAWeekly, July 6, 2015.
+Cacao is not a part of traditional Mayanga culture, despite the plant being native to Meso-America. Even after winning their case in the Inter-American Court of Human Rights, the Awas Tingni Mayangna have been losing their lands as "colonists" of Spanish decent from the Pacific coast migrate to illegally settle demarcated Mayangna land. Mayangna culture traditionally relies on hunting, gathering, and fishing, using the forest for food, medicine, and other materials. One recent attempt to fight against the loss of their traditional lands and livelihoods has been the planting of shade grown cacao within their forests as a way to "develop" the land while also keeping it close to its natural state. By claiming the land in ways recognized by societies based on conventional notions of private property, then hope to strengthen their ability to resist encroachment on their lands while still retaining some level of their traditional culture.
