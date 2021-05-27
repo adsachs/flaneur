@@ -1,10 +1,12 @@
 ---
 layout: home
-title: "Flâneur: A Jekyll theme for maps and texts"
+title: "Real Food Stories"
 ---
 
-> "_Flâneur_ (pronounced [flɑnœʁ]), from the French noun _flâneur_, means "stroller", "lounger", "saunterer", or "loafer". _Flânerie_ is the act of strolling, with all of its accompanying associations." ([Wikipedia](https://en.wikipedia.org/wiki/Flâneur))
+Everybody eats, most of us every day, often more than once. Food, no matter who you are, is an everyday part of your life. The old adage, “you are what you eat,” is not simply a statement of biological reality, but one of identity and culture; We create our “selves” out of the cultural milieu that food provides us. We might paraphrase French gourmand [Brillat-Savarine’s](https://en.wikipedia.org/wiki/Jean_Anthelme_Brillat-Savarin) for this project as, “the food you eat tells a story about who you are.” The stories we tell about our foods also speak to who we are.
 
-[Flâneur](https://github.com/kirschbombe/flaneur) is a Jekyll map-based theme using the Leaflet JavaScript library for presenting maps and text together. To see a real-world use case, visit the [Los Angeles: The City and the Library](https://citystoriesucla.github.io/lyricalmap/) project.
+**Real Food Stories** is a “born-digital” documentary project that harnesses the multimedia capabilities of the web to map stories about food so users can explore and understand the importance that food stories hold for cultural, individual, and collective meaning-making. Our prototype, **Historias de Cacao/Cacao Stories**, is a collection of interviews with stakeholders from across the Nicaraguan cacao and chocolate industry, and serves as the basis for expanding the project to other regions and foods.
 
-Flâneur was developed by Dawn Childress and ported to Jekyll by Dawn Childress & Niqui O'Neill. It is based on the original [Boulevardier](https://github.com/kirschbombe/boulevardier) framework developed by Dawn Childress & Nathan Day.
+
+
+Please see our [Real Food Stories Manifesto](https://www.pluralities.org/01/05/) published by [_Pluralities_](https://www.pluralities.org/)
