@@ -27,7 +27,7 @@ map-credits: '<a target="_blank" href="https://github.com/kirschbombe/flaneur">F
 minZoom: 0
 maxZoom: 20
 setView: '[12.136389, -86.251389], 7'  # set map center point and zoom. See http://leafletjs.com/reference-1.2.0.html for more info.
-marker-grouping: grouped # sets the default clustering action. Options: grouped, single
+marker-grouping: single # sets the default clustering action. Options: grouped, single
 
 # Truncates map marker popup on small screens to only display post title
 window-height: 600
