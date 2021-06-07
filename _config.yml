@@ -4,7 +4,7 @@
 title: "Real Food Stories"
 email: ads3@stmarys-ca.edu    
 description:
-baseurl: "/flaneur" # the subpath of your site, e.g. /blog/
+baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "realfoodstories.org" # the base hostname & protocol for your site
 github_repo: https://github.com/adsachs/flaneur
 copyright_statement: © 2021 Aaron Sachowitz CC BY-NC-SA 
