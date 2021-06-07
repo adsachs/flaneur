@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nicaraguan Pinolillo"
-date: 1557-01-01
+date: 2021-06-01
 categories: ["Annotations", "Cacao", "Nicaragua", "History", "Commerce"]
 author: "Aaron Dickinson Sachs"
 lat: 11.975095067512312
